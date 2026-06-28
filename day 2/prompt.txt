@@ -1,0 +1,8 @@
+their is an event happening for students 40 students will come for 30 minutes. We need to organize this event. There are two robo-race tracks. On that for each student, the activity will be for 2.5 minutes. Student will come. Our person will start the timer, and he will then start the race. At the same time, in one Robo race track, two people will be engaged for 2.5 mins.  There is one 3D printing area where, at one time, four or five students can be engaged for 5 minutes, and then there is one AI activity area where the same four or five students can be engaged for 5 minutes. There are also two training areas where, at one time, one student can be trained on how the robot will move and these things. In that, the student will be engaged for 2-3 minutes. Now what I want is a plan. For the whole 30 minutes, let's say 40 students have come. How will we divide? How will we plan out that these students will go to this and these students will go to this?
+
+* For 0-5 minutes, these students will be going to this.
+* For 5-10 minutes, these students will do these.
+* 10-15
+* 15-20
+* 20-25
+* 25-30 at the end, each of the 40 students should experience everything. That is our goal. As an organizer, let's say I am the organizer. I want this plan so I can divide students into some groups and then align them to different counters. How will I rotate them? And so make this whole plan. If you have any question, let me know.

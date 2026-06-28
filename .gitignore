@@ -17,3 +17,6 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+# Local context for Claude — not for GitHub
+CLAUDE.md
